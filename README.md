@@ -14,6 +14,11 @@ This Python script converts `.cbz` and `.cbr` files to PDF format and moves the 
     ```bash
     pip install pillow
     ```
+2. **Clone the Repository**:
+   Open a terminal and clone the repository from GitHub:
+    ```bash
+    git clone https://github.com/empr0r/CBZ-to-pdf.git
+    ```
 
 ## Usage
 
